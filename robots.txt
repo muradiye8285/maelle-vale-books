@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muradiye8285.github.io/maelle-vale-books/sitemap.xml
